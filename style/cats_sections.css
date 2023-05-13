@@ -1,0 +1,38 @@
+body {
+  background-color: #f4e8de;
+}
+
+.polimorf__flex {
+  display: flex;
+  width: 404px;
+  height: 108px;
+  border: 1px solid rgba(167, 124, 93, 1);
+  border-radius: 12px;
+  margin-top: 24px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.pulheria__flex {
+  display: flex;
+  align-items: center;
+  width: 404px;
+  height: 108px;
+  border: 1px solid rgba(167, 124, 93, 1);
+  border-radius: 12px;
+  margin-top: 16px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.apofem__flex {
+  display: flex;
+  align-items: center;
+  width: 404px;
+  height: 108px;
+  border: 1px solid rgba(167, 124, 93, 1);
+  border-radius: 12px;
+  margin-top: 16px;
+  margin-left: 12px;
+  margin-right: 12px;
+}

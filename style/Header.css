@@ -1,0 +1,19 @@
+.header__weight {
+  display: flex;
+  height: 56px;
+  background-color: rgba(167, 124, 93, 1);
+  align-items: center;
+}
+
+.header__weight--menu {
+  margin-left: 16.25px;
+}
+
+.header__weight--font {
+  margin-left: 16px;
+  letter-spacing: 0.5px;
+}
+
+.header__weight--plus {
+  margin-left: 178px;
+}

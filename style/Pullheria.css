@@ -1,0 +1,39 @@
+.pulheria__img {
+  height: 36px;
+  width: 42px;
+  margin: 13px 13px;
+}
+
+.pulheria__border {
+  display: flex;
+  margin-left: 24px;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+  border: 1px solid rgba(167, 124, 93, 1);
+  background-color: rgba(196, 196, 196, 1);
+  border-radius: 24px;
+}
+
+.pulheria__title {
+  margin-left: 23px;
+  margin-top: 22px;
+  margin-bottom: 56px;
+  letter-spacing: 0.5px;
+}
+
+.pulheria__weight {
+  margin-top: 27px;
+  margin-left: -88px;
+}
+
+.pulheria__img--red_line {
+  margin-top: 31px;
+  margin-right: 38px;
+}
+
+.pulheria__date {
+  margin-top: 73px;
+  margin-left: 117px;
+  letter-spacing: 0.5px;
+}
